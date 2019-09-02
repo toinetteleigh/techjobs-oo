@@ -24,6 +24,7 @@ public class JobField {
     }
 
     public String getValue() {
+
         return value;
     }
 
@@ -32,6 +33,7 @@ public class JobField {
     }
 
     public String toString() {
+
         return value;
     }
 

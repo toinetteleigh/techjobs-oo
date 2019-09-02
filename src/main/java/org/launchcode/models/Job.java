@@ -33,6 +33,7 @@ public class Job {
     }
 
     public String getName() {
+
         return name;
     }
 
@@ -41,6 +42,7 @@ public class Job {
     }
 
     public Employer getEmployer() {
+
         return employer;
     }
 
